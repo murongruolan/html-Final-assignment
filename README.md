@@ -1,1 +1,5 @@
-# html-Final-assignment
+# 这是HTML/CSS课程的期末作业
+# 该作业由若兰制作
+* 禁止用作违法用途
+* 禁止商用
+* 该代码遵循GPL3.0协议
